@@ -245,3 +245,5 @@ def ejercicio3():
     resultados.append(f"Memoria pico: {mem_bb:.2f} KB")
 
     return "\n".join(resultados)
+
+
